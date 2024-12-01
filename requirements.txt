@@ -1,0 +1,7 @@
+numpy
+tensorflow
+matplotlib
+pyttsx3
+opencv-python
+pyserial
+IPython
